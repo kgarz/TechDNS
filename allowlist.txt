@@ -3,3 +3,8 @@ ablink.account.etsy.com
 click.redditmail.com
 smart.link
 html-load.com
+unifi.ui.com
+device.svc.ui.com
+trace.svc.ui.com
+global.turn.ui.com
+*.turn.ui.com
