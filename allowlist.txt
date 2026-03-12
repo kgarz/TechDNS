@@ -8,4 +8,4 @@ device.svc.ui.com
 trace.svc.ui.com
 global.turn.ui.com
 *.turn.ui.com
-click.cash.app
+click.cash.app*
