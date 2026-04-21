@@ -9,3 +9,5 @@ trace.svc.ui.com
 global.turn.ui.com
 *.turn.ui.com
 click.cash.app*
+zap2it.com
+tvlistings.zap2it.com
